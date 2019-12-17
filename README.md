@@ -1,3 +1,4 @@
+
 # Active Record Associations Introduction: Playlister
 
 ## Objectives
